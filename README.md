@@ -7,4 +7,4 @@ Le fichier
 
  MB_HISTO_COURBES.ipynb
 
-Différent resultat obtenus après les recherches sur l'imputation des données manquantes dans les séries temporelles
+Contient différents resultats obtenus après les recherches sur l'imputation des données manquantes dans les séries temporelles
